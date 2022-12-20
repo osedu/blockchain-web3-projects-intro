@@ -1,4 +1,4 @@
-<img src="./assets/black%20text.png" alt="black text" style="zoom: 10%;" />
+<img src="./assets/black_text.png" alt="black text" style="zoom: 10%;" />
 
 # web3任务平台PORT3
 
@@ -37,13 +37,13 @@
 
 **截止2022年10月的运行数据：**
 
-![img](./assets/spaces%252Fkltka5IfdVmmGWGayML7%252Fuploads%252FNi9C0jw4mn9dGFdAUwnL%252FSoGraph.png)
+![img](./assets/1.png)
 
 **PORT3平台的数据工作流：**
 
 Aggregate social data across Web2 & Web3 platforms
 
-![img](./assets/spaces%252Fkltka5IfdVmmGWGayML7%252Fuploads%252FBFDvTwP6IEexkpZil4pf%252F22.jpg)
+![img](./assets/2.jpg)
 
 ## SoQuest介绍
 
@@ -76,7 +76,7 @@ SoQuest是一个Web3任务工具，用户参加任何活动之前需要绑定Web
 
 **三种奖励类型：** NFT，Token，Whitelist
 
-![img](./assets/spaces%252Fkltka5IfdVmmGWGayML7%252Fuploads%252FF3IhtO3iUTjZ370MGUWD%252F10.jpg)
+![img](./assets/3.jpg)
 
 **强制性任务VS非强制性任务：**
 
@@ -84,12 +84,12 @@ SoQuest是一个Web3任务工具，用户参加任何活动之前需要绑定Web
 - 不加*的是可选的
 - 全部完成会提高中奖概率
 
-![image-20221220174025620](./assets/image-20221220174025620-1671529230366-7.png)
+![image-20221220174025620](./assets/4.png)
 
 **如何知道在活动中胜出?**
 
-![img](./assets/spaces%252Fkltka5IfdVmmGWGayML7%252Fuploads%252FlDr95D3EZeaVhzCgOY79%252F11.jpg)
+![img](./assets/5.jpg)
 
-![img](./assets/spaces%252Fkltka5IfdVmmGWGayML7%252Fuploads%252FSl6gnQHD3RRHfa0jCKjh%252F12-1671529393910-13.jpg)
+![img](./assets/6.jpg)
 
-![img](./assets/spaces%252Fkltka5IfdVmmGWGayML7%252Fuploads%252F8xRIgpLLuxD5wQpk72E2%252F13.jpg)
+![img](./assets/7.jpg)
